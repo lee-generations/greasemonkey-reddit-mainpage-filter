@@ -35,7 +35,7 @@
         'oneorangebraincell', 'circlejerksopranos', 'helldivers2', 'cfl', 'canadasoccer',
         'chainsawman', 'canucks', 'skyrim', 'concordia', 'terraria', 'wnba', 'balatro',
         'globaloffensive', 'thematpateffect', 'persona5', 'popheads', 'thevalleytvshow',
-        'pkbuddychicanery', 'totalwar', 'nbatalk', 'ios'
+        'pkbuddychicanery', 'totalwar', 'nbatalk', 'ios', 'loveislandusa'
     ];
 
     function hideBlockedSubreddits() {
