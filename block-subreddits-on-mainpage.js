@@ -31,7 +31,7 @@
         'okbuddycinephile', 'humanbeingbros', 'me_irl', 'deadbydaylight', 'lotr', 'liverpoolfc',
         'deltarune', 'hololive', 'teenagers', 'holdmycatnip', '2007scape', 'popheadcirclejerk',
         'neopets', 'rogue', 'drakethetype', 'SSBM', 'dnd', 'sports', 'legocirclejerk', 'lakers',
-        'thomastheplankengine', 'houseplants'
+        'thomastheplankengine', 'houseplants', 'nursing', 'nhl', 'beamazed'
     ];
 
     function hideBlockedSubreddits() {
