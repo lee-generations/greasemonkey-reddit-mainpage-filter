@@ -31,7 +31,11 @@
         'okbuddycinephile', 'humanbeingbros', 'me_irl', 'deadbydaylight', 'lotr', 'liverpoolfc',
         'deltarune', 'hololive', 'teenagers', 'holdmycatnip', '2007scape', 'popheadcirclejerk',
         'neopets', 'rogue', 'drakethetype', 'SSBM', 'dnd', 'sports', 'legocirclejerk', 'lakers',
-        'thomastheplankengine', 'houseplants', 'nursing', 'nhl', 'beamazed'
+        'thomastheplankengine', 'houseplants', 'nursing', 'nhl', 'beamazed', 'nightreign', 
+        'oneorangebraincell', 'circlejerksopranos', 'helldivers2', 'cfl', 'canadasoccer',
+        'chainsawman', 'canucks', 'skyrim', 'concordia', 'terraria', 'wnba', 'balatro',
+        'globaloffensive', 'thematpateffect', 'persona5', 'popheads', 'thevalleytvshow',
+        'pkbuddychicanery', 'totalwar'
     ];
 
     function hideBlockedSubreddits() {
